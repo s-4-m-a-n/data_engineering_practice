@@ -1,0 +1,6 @@
+export DB_USER='db_user'
+export DB_PASSWORD='db_password'
+export DB='nthrow_testdb' 
+export HOST='localhost'
+export PORT='5432'
+export NTHROW_CACHE_DIR='tests/cache'

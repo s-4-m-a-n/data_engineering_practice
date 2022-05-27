@@ -1,0 +1,16 @@
+{
+	"post_count_per_year" : {},
+	"post_count_per_month" : {},
+	"post_count_per_month":{},
+	"post_count_per_day" : {},
+	"category_avg_review" : {},
+	"category_review_range" : {},
+	"category_avg_rating" : {},
+	"category_rating_range" : {},
+	"tag_frequency" : {},
+	"category_avg_discount" : {},
+	"category_discount_range" : {},
+	"category_avg_price" : {},
+	"category_price_range" : {},
+	"category_freq" : {}
+ }

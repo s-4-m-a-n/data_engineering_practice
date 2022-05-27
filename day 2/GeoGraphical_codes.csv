@@ -1,0 +1,754 @@
+sn,district,municipality_eng,municipality_nep,type,code
+1,taplejung,phaktanlung,फक्ताङ्लुङ्ग,rural,10101
+2,taplejung,mikwakhola,मिक्वाखोला,rural,10102
+3,taplejung,meringden,मेरिङ्गदेन,rural,10103
+4,taplejung,maiwakhola,मैवाखोला,rural,10104
+5,taplejung,aatharai tribeni,आठराई त्रिवेणी,rural,10105
+6,taplejung,phungling,फुङलिङ्ग,urban,10106
+7,taplejung,pathivara yangwarak,पाथीभरा याङवरक,rural,10107
+8,taplejung,sirijanga,सिरीजङ्गा,rural,10108
+9,taplejung,sidingba,सिदिङ्गवा,rural,10109
+10,sankhuwasabha,bhotkhola,भोटखोला,rural,10201
+11,sankhuwasabha,makalu,मकालु,rural,10202
+12,sankhuwasabha,silichong,सिलीचोङ,rural,10203
+13,sankhuwasabha,chichila,चिचिला,rural,10204
+14,sankhuwasabha,sabhapokhari,सभापोखरी,rural,10205
+15,sankhuwasabha,khandabari,खाँदबारी,urban,10206
+16,sankhuwasabha,panchakhapan,पाँचखपन,urban,10207
+17,sankhuwasabha,chainapur,चैनपुर,urban,10208
+18,sankhuwasabha,madi,मादी,urban,10209
+19,sankhuwasabha,dharmadevi,धर्मदेवी,urban,10210
+20,solukhumbu,khumbu pasanglhamu,खुम्बु पासाङल्हामु,rural,10301
+21,solukhumbu,mahakulung,माहाकुलुङ,rural,10302
+22,solukhumbu,sotang,सोताङ,rural,10303
+23,solukhumbu,mapya dudhkoshi,माप्य दुधकोशी,rural,10304
+24,solukhumbu,thulung dudhkoshi,थुलुङ दुधकोशी,rural,10305
+25,solukhumbu,necha salyan,नेचासल्यान,rural,10306
+26,solukhumbu,solu dhudhakunda,सोलुदुधकुण्ड,urban,10307
+27,solukhumbu,likhu pike,लिखु पिके,rural,10308
+28,okhaldhunga,chishankhu gadhi,चिशंखुगढी,rural,10401
+29,okhaldhunga,siddhicharan,सिद्धिचरण,urban,10402
+30,okhaldhunga,molung,मोलुङ्ग,rural,10403
+31,okhaldhunga,khiji demba,खिजीदेम्बा,rural,10404
+32,okhaldhunga,likhu,लिखु,rural,10405
+33,okhaldhunga,champadevi,चम्पादेवी,rural,10406
+34,okhaldhunga,sunkoshi,सुनकोशी,rural,10407
+35,okhaldhunga,manebhanjyang,मानेभन्ज्याङ्ग,rural,10408
+36,khotang,kepilasgadhi,केपिलासगढी,rural,10501
+37,khotang,aiselukharka,ऐसेलुखर्क,rural,10502
+38,khotang,rawa besi,रावा बेसी,rural,10503
+39,khotang,halesi tuwachung,हलेसी तुवाचुङ,urban,10504
+40,khotang,diktel rupakot majhuwagadhi,दिक्तेल रुपाकोट मझुवागढी,urban,10505
+41,khotang,sakela,साकेला,rural,10506
+42,khotang,diprung chuichumma,दिप्रुङ चुइचुम्मा,rural,10507
+43,khotang,khotehang,खोटेहाङ,rural,10508
+44,khotang,jante dhunga,जन्तेढुङ्गा,rural,10509
+45,khotang,baraha pokhari,बराहपोखरी,rural,10510
+46,bhojpur,shadananda,षडानन्द,urban,10601
+47,bhojpur,salpa silichho,साल्पासिलिछो,rural,10602
+48,bhojpur,temkemaiyum,टेम्केमैयुङ,rural,10603
+49,bhojpur,bhojpur,भोजपुर,urban,10604
+50,bhojpur,arun,अरुण,rural,10605
+51,bhojpur,pauwa dunma,पौवा दुङ्मा,rural,10606
+52,bhojpur,ramprasad rai,रामप्रसाद राई,rural,10607
+53,bhojpur,hatuwagadhi,हतुवागढी,rural,10608
+54,bhojpur,aamchowk,आमचोक,rural,10609
+55,dhankuta,mahalaxmi,महालक्ष्मी,urban,10701
+56,dhankuta,pakhribas,पाख्रिबास,urban,10702
+57,dhankuta,chhathar jorpati,छथर जोरपाटी,rural,10703
+58,dhankuta,dhankuta,धनकुटा,urban,10704
+59,dhankuta,shahidbhumi,सहिदभूमि,rural,10705
+60,dhankuta,sangurigadhi,साँगुरीगढी,rural,10706
+61,dhankuta,chaubise,चौविसे,rural,10707
+62,terhathum,aatharai,आठराई,rural,10801
+63,terhathum,phedap,फेदाप,rural,10802
+64,terhathum,menchhayayem,मेन्छयायेम,rural,10803
+65,terhathum,myanglung,म्याङ्गलुङ्ग,urban,10804
+66,terhathum,laligurans,लालीगुराँस,urban,10805
+67,terhathum,chhathar,छथर,rural,10806
+68,panchthar,yangbarak,याङवरक,rural,10901
+69,panchthar,hilihan,हिलिहाङ्ग,rural,10902
+70,panchthar,falelung,फालेलुङ ,rural,10903
+71,panchthar,phidim,फिदिम,urban,10904
+72,panchthar,falgunanda,फाल्गुनन्द,rural,10905
+73,panchthar,kummayak,कुम्मायक,rural,10906
+74,panchthar,tumbewa,तुम्बेवा,rural,10907
+75,panchthar,miklajung,मिक्लाजुङ,rural,10908
+76,ilam,mai jogmai,माई जोगमाई,rural,11001
+77,ilam,sandakpur,सन्दकपुर,rural,11002
+78,ilam,illam,ईलाम,urban,11003
+79,ilam,deumai,देउमाई,urban,11004
+80,ilam,fakfokathum,फाकफोकथुम,rural,11005
+81,ilam,mangsebung,माङसेबुङ,rural,11006
+82,ilam,chulachuli,चुलाचुली,rural,11007
+83,ilam,mai,माई,urban,11008
+84,ilam,suryodaya,सूर्योदय,urban,11009
+85,ilam,rong,रोङ,rural,11010
+86,jhapa,mechinagar,मेचीनगर,urban,11101
+87,jhapa,buddhashanti,बुद्धशान्ति,rural,11102
+88,jhapa,arjundhara,अर्जुनधारा,urban,11103
+89,jhapa,kankai,कन्काई,urban,11104
+90,jhapa,shivasatakshi,शिवसताक्षी,urban,11105
+91,jhapa,kamal,कमल,rural,11106
+92,jhapa,damak,दमक,urban,11107
+93,jhapa,gauradaha,गौरादह,urban,11108
+94,jhapa,gauriganj,गौरिगञ्ज,rural,11109
+95,jhapa,jhapa,झापा,rural,11110
+96,jhapa,barhadashi,बाह्रदशी,rural,11111
+97,jhapa,birtamod,बिर्तामोड,urban,11112
+98,jhapa,haldibari,हल्दीबारी,rural,11113
+99,jhapa,bhadrapur,भद्रपुर,urban,11114
+100,jhapa,kachanakawal,कचनकवल,rural,11115
+101,morang,miklajung,मिक्लाजुङ,rural,11201
+102,morang,letang,लेटाङ,urban,11202
+103,morang,kerabari,केराबारी,rural,11203
+104,morang,sundarharaicha,सुन्दरहरैंचा,urban,11204
+105,morang,belbari,बेलबारी,urban,11205
+106,morang,kanepokhari,कानेपोखरी,rural,11206
+107,morang,pathari shanishchare,पथरी शनिश्चरे,urban,11207
+108,morang,urlabari,उर्लाबारी,urban,11208
+109,morang,ratuwamai,रतुवामाई,urban,11209
+110,morang,sunwarshi,सुनवर्षी,urban,11210
+111,morang,rangeli,रंगेली,urban,11211
+112,morang,gramthan,ग्रामथान,rural,11212
+113,morang,budhiganga,बुढीगंगा,rural,11213
+114,morang,biratnagar,बिराटनगर,metropolitian,11214
+115,morang,katahari,कटहरी,rural,11215
+116,morang,dhanapalthan,धनपालथान,rural,11216
+117,morang,jahada,जहदा,rural,11217
+118,sunsari,dharan,धरान,sub-metropolitian,11301
+119,sunsari,barahachhetra,बराहक्षेत्र,urban,11302
+120,sunsari,koshi,कोशी,rural,11303
+121,sunsari,bhokraha narsingh,भोक्राहा नरसिंह,rural,11304
+122,sunsari,ramdhuni,रामधुनी,urban,11305
+123,sunsari,itahari,ईटहरी,sub-metropolitian,11306
+124,sunsari,duhabi,दुहबी,urban,11307
+125,sunsari,gadhi,गढी,rural,11308
+126,sunsari,inaruwa,इनरुवा,urban,11309
+127,sunsari,harinagar,हरिनगर,rural,11310
+128,sunsari,dewangunj,देवानगन्ज,rural,11311
+129,sunsari,barju,बर्जु,rural,11312
+130,udayapur,belaka,बेलका,urban,11401
+131,udayapur,chaudandigadhi,चौदण्डीगढी,urban,11402
+132,udayapur,triyuga,त्रियुगा,urban,11403
+133,udayapur,rautamai,रौतामाई,rural,11404
+134,udayapur,limchungbung, लिम्चुङबुङ ,rural,11405
+135,udayapur,tapli,ताप्ली,rural,11406
+136,udayapur,katari,कटारी,urban,11407
+137,udayapur,udayapurgadhi,उदयपुरगढी,rural,11408
+138,saptari,saptakoshi,सप्तकोशी,urban,20101
+139,saptari,kanchanrup,कन्चनरुप,urban,20102
+140,saptari,agnisair krishna sabaran,अग्निसाइर कृष्ण सवरन,rural,20103
+141,saptari,rupani,रुपनी,rural,20104
+142,saptari,shambhunath,शम्भुनाथ,urban,20105
+143,saptari,khadak,खडक,urban,20106
+144,saptari,surunga,सुरुङ्गा,urban,20107
+145,saptari,balan-bihul,बलान बिहुल,rural,20108
+146,saptari,bode barsain,बोदेबरसाईन,urban,20109
+147,saptari,dakneshwori,डाक्नेश्वरी,urban,20110
+148,saptari,rajgadh,राजगढ,rural,20111
+149,saptari,bishnupur,बिष्णुपुर,rural,20112
+150,saptari,rajbiraj,राजविराज,urban,20113
+151,saptari,mahadewa,महादेवा,rural,20114
+152,saptari,tirahut,तिरहुत,rural,20115
+153,saptari,hanumannagar kankalini,हनुमाननगर कङ्कालिनी,urban,20116
+154,saptari,tilathi koiladi,तिलाठी कोईलाडी,rural,20117
+155,saptari,chhinnamasta,छिन्नमस्ता,rural,20118
+156,siraha,lahan,लहान,urban,20201
+157,siraha,dhangadhimai,धनगढीमाई,urban,20202
+158,siraha,golbazar,गोलबजार,urban,20203
+159,siraha,mirchaiya,मिर्चेया,urban,20204
+160,siraha,karjanha,कर्जन्हा,urban,20205
+161,siraha,kalyanpur,कल्याणपुर,urban,20206
+162,siraha,naraha,नरहा,rural,20207
+163,siraha,bishnupur,बिष्णुपुर,rural,20208
+164,siraha,arnama,अर्नमा,rural,20209
+165,siraha,sukhipur,सुखीपुर,urban,20210
+166,siraha,laxmipur patari,लक्ष्मीपुर पतारी,rural,20211
+167,siraha,sakhuwa nankarkatti,सखुवानान्कारकट्टी,rural,20212
+168,siraha,bhagawanpur,भगवानपुर,rural,20213
+169,siraha,nawarajpur,नवराजपुर,rural,20214
+170,siraha,bariyarpatti,बरियारपट्टी,rural,20215
+171,siraha,aurahi,औरही,rural,20216
+172,siraha,siraha,सिराहा,urban,20217
+173,dhanusa,ganeshman charnath,गणेशमान चारनाथ,urban,20301
+174,dhanusa,dhanushadham,धनुषाधाम,urban,20302
+175,dhanusa,mithila,मिथिला,urban,20303
+176,dhanusa,bateshwor,बटेश्वर,rural,20304
+177,dhanusa,chhireshwornath,क्षिरेश्वरनाथ,urban,20305
+178,dhanusa,laxminiya,लक्ष्मीनिया,rural,20306
+179,dhanusa,mithila bihari,मिथिला बिहारी,urban,20307
+180,dhanusa,hansapur,हंसपुर,urban,20308
+181,dhanusa,sabaila,सबैला,urban,20309
+182,dhanusa,shahidnagar,शहीदनगर,urban,20310
+183,dhanusa,kamala,कमला,urban,20311
+184,dhanusa,janak nandini,जनक नन्दिनी,rural,20312
+185,dhanusa,bideha,बिदेह,urban,20313
+186,dhanusa,aurahi,औरही,rural,20314
+187,dhanusa,janakpurdham,जनकपुरधाम,sub-metropolitian,20315
+188,dhanusa,dhanauji,धनौजी,rural,20316
+189,dhanusa,nagarain,नगराइन,urban,20317
+190,dhanusa,mukhiyapatti musaharmiya,मुखियापट्टी मुसहरमिया,rural,20318
+191,mahottari,bardibas,बर्दिबास,urban,20401
+192,mahottari,gaushala,गौशाला,urban,20402
+193,mahottari,sonama,सोनमा,rural,20403
+194,mahottari,aurahi,औरही,urban,20404
+195,mahottari,bhangaha,भँगाहा,urban,20405
+196,mahottari,loharpatti,लोहरपट्टी,urban,20406
+197,mahottari,balawa,बलवा,urban,20407
+198,mahottari,ram gopalpur,राम गोपालपुर,urban,20408
+199,mahottari,samsi,साम्सी,rural,20409
+200,mahottari,manara shisawa,मनरा शिसवा,urban,20410
+201,mahottari,ekadara,एकडारा,rural,20411
+202,mahottari,mahottari,महोत्तरी,rural,20412
+203,mahottari,pipara,पिपरा,rural,20413
+204,mahottari,matihani,मटिहानी,urban,20414
+205,mahottari,jaleshwor,जलेश्वर,urban,20415
+206,sarlahi,lalbandi,लालबन्दी,urban,20501
+207,sarlahi,hariwan,हरिवन,urban,20502
+208,sarlahi,bagmati,बागमती,urban,20503
+209,sarlahi,barahathawa,बरहथवा,urban,20504
+210,sarlahi,haripur,हरिपुर,urban,20505
+211,sarlahi,ishworpur,ईश्वरपुर,urban,20506
+212,sarlahi,haripurwa,हरिपुर्वा,urban,20507
+213,sarlahi,parsa,पर्सा,rural,20508
+214,sarlahi,brahmapuri,ब्रह्मपुरी,rural,20509
+215,sarlahi,chandranagar,चन्द्रनगर,rural,20510
+216,sarlahi,kabilashi,कविलासी,urban,20511
+217,sarlahi,chakraghatta,चक्रघट्टा,rural,20512
+218,sarlahi,basbariya,बसबरिया,rural,20513
+219,sarlahi,dhanakaul,धनकौल,rural,20514
+220,sarlahi,ramnagar,रामनगर,rural,20515
+221,sarlahi,balara,बलरा,urban,20516
+222,sarlahi,godaita,गोडैटा,urban,20517
+223,sarlahi,bishnu,विष्णु,rural,20518
+224,sarlahi,kaudena,कौडेना,rural,20519
+225,sarlahi,malangawa,मलंगवा,urban,20520
+226,rautahat,chandrapur,चन्द्रपुर,urban,20601
+227,rautahat,gujara,गुजरा,urban,20602
+228,rautahat,phatuwa bijayapur,फतुवा बिजयपुर,urban,20603
+229,rautahat,katahariya,कटहरिया,urban,20604
+230,rautahat,brindaban,बृन्दावन,urban,20605
+231,rautahat,gadhimai,गढीमाई,urban,20606
+232,rautahat,madhav narayan,माधव नारायण,urban,20607
+233,rautahat,garuda,गरुडा,urban,20608
+234,rautahat,dewahi gonahi,देवाही गोनाही,urban,20609
+235,rautahat,maulapur,मौलापुर,urban,20610
+236,rautahat,boudhimai,बौधीमाई,urban,20611
+237,rautahat,paroha,परोहा,urban,20612
+238,rautahat,rajpur,राजपुर,urban,20613
+239,rautahat,yamunamai,यमुनामाई,rural,20614
+240,rautahat,durga bhagawati,दुर्गा भगवती,rural,20615
+241,rautahat,rajdevi,राजदेवी,urban,20616
+242,rautahat,gaur,गौर,urban,20617
+243,rautahat,ishanath,ईशनाथ,urban,20618
+244,bara,nijagadh,निजगढ,urban,20701
+245,bara,kolhabi,कोल्हवी,urban,20702
+246,bara,jitpur simara,जीतपुर सिमरा,sub-metropolitian,20703
+247,bara,parawanipur,परवानीपुर,rural,20704
+248,bara,prasauni,प्रसौनी,rural,20705
+249,bara,bishrampur,विश्रामपुर,rural,20706
+250,bara,pheta,फेटा,rural,20707
+251,bara,kalaiya,कलैया,sub-metropolitian,20708
+252,bara,karaiyamai,करैयामाई,rural,20709
+253,bara,baragadhi,बारागढी,rural,20710
+254,bara,aadarsha kotwal,आदर्श कोटवाल,rural,20711
+255,bara,simroungadh,सिम्रौनगढ,urban,20712
+256,bara,pacharauta,पचरौता,urban,20713
+257,bara,mahagadhimai,महागढीमाई,urban,20714
+258,bara,devtal,देवताल,rural,20715
+259,bara,subarna,सुवर्ण,rural,20716
+260,parsa,thori,ठोरी (सुवर्णपुर),rural,20801
+261,parsa,jirabhawani,जिराभवानी,rural,20802
+262,parsa,jagarnathpur,जगरनाथपुर,rural,20803
+263,parsa,paterwa sugauli,पटेर्वा सुगौली,rural,20804
+264,parsa,sakhuwa prasauni,सखुवा प्रसौनी,rural,20805
+265,parsa,parsagadhi,पर्सागढी,urban,20806
+266,parsa,birgunj,बिरगन्ज,metropolitian,20807
+267,parsa,bahudarmai,बहुदरमाई,urban,20808
+268,parsa,pokhariya,पोखरिया,urban,20809
+269,parsa,kalikamai,कालिकामाई,rural,20810
+270,parsa,dhobini,धोबीनी,rural,20811
+271,parsa,chhipaharmai,छिपहरमाई,rural,20812
+272,parsa,pakaha mainpur,पकाहा मैनपुर,rural,20813
+273,parsa,bindabasini,बिन्दवासिनी,rural,20814
+274,dolakha,gaurishankar,गौरिशंकर,rural,30101
+275,dolakha,bigu,बिगु,rural,30102
+276,dolakha,kalinchowk,कालिन्चोक,rural,30103
+277,dolakha,baiteshwor,बैतेश्वर ,rural,30104
+278,dolakha,jiri,जिरी,urban,30105
+279,dolakha,tamakoshi,तामाकोशी,rural,30106
+280,dolakha,melung,मेलुङ्ग,rural,30107
+281,dolakha,shailung,शैलुड०,rural,30108
+282,dolakha,bhimeshwor,भिमेश्वर,urban,30109
+283,sindhupalchok,bhotekoshi,भोटेकोशी,rural,30201
+284,sindhupalchok,jugal,जुगल,rural,30202
+285,sindhupalchok,panchpokhari thangpal,पाँचपोखरी थाड०पाल,rural,30203
+286,sindhupalchok,helambu,हेलम्बु,rural,30204
+287,sindhupalchok,melanchi,मेलम्ची,urban,30205
+288,sindhupalchok,indrawoti,ईन्द्रावती,rural,30206
+289,sindhupalchok,choutara sangachowkgadhi,चौतारा साँगाचोकगढी,urban,30207
+290,sindhupalchok,balephi,बलेफी,rural,30208
+291,sindhupalchok,bahrabise,बाह्रबिसे,urban,30209
+292,sindhupalchok,tripurasundari,त्रिपुरासुन्दरी,rural,30210
+293,sindhupalchok,lisankhu pakhar,लिसंखु पाखर,rural,30211
+294,sindhupalchok,sunkoshi,सुनकोशी,rural,30212
+295,rasuwa,gosaikunda,गोसाईकुण्ड,rural,30301
+296,rasuwa,aamachhodingmo,आमाछोदिङमो,rural,30302
+297,rasuwa,uttargaya,उत्तरगया,rural,30303
+298,rasuwa,shuva kalika,शुभ कालीका,rural,30304
+299,rasuwa,naukunda,नौकुण्ड,rural,30305
+300,dhading,rubi valley,रुबी भ्याली,rural,30401
+301,dhading,khaniyabas,खनियाबास,rural,30402
+302,dhading,ganga jamuna,गंङ्गा जमुना,rural,30403
+303,dhading,tripurasundari,त्रिपुरासुन्दरी,rural,30404
+304,dhading,netrawati dabjong,नेत्रावती डबजोङ,rural,30405
+305,dhading,nilkhantha,नीलकण्ठ,urban,30406
+306,dhading,jwalamukhi,ज्वालामुखी,rural,30407
+307,dhading,siddhalek,सिद्धलेक,rural,30408
+308,dhading,benighat rorang,बेनीघाट रोराङ्ग,rural,30409
+309,dhading,gajuri,गजुरी,rural,30410
+310,dhading,galchhi,गल्छी,rural,30411
+311,dhading,thakre,थाक्रे,rural,30412
+312,dhading,dhunibenshi,धुनीबेंशी,urban,30413
+313,nuwakot,dupcheshwor,दुप्चेश्वर,rural,30501
+314,nuwakot,tadi,तादी,rural,30502
+315,nuwakot,suryagadhi,सुर्यगढी,rural,30503
+316,nuwakot,bidur,बिदुर,urban,30504
+317,nuwakot,kispang,किस्पाङ्ग,rural,30505
+318,nuwakot,myagang,म्यगङ,rural,30506
+319,nuwakot,tarakeshwor,तारकेश्वर,rural,30507
+320,nuwakot,belkotgadhi,बेलकोटगढी,urban,30508
+321,nuwakot,likhu,लिखु,rural,30509
+322,nuwakot,panchakanya,पन्चकन्या,rural,30510
+323,nuwakot,shivapuri,शिवपुरी,rural,30511
+324,nuwakot,kakani,ककनी,rural,30512
+325,kathmandu,shankharapur,शंङ्खरापुर,urban,30601
+326,kathmandu,kageshwori manahara,कागेश्वरी मनहरा,urban,30602
+327,kathmandu,gokarneshwor,गोकर्णेश्वर,urban,30603
+328,kathmandu,budhanilkhantha,बुढानिलकण्ठ,urban,30604
+329,kathmandu,tokha,टोखा,urban,30605
+330,kathmandu,tarakeshwor,तारकेश्वर,urban,30606
+331,kathmandu,nagarjun,नागार्जुन,urban,30607
+332,kathmandu,kathmandu,काठमाण्डौ,metropolitian,30608
+333,kathmandu,kirtipur,किर्तिपुर,urban,30609
+334,kathmandu,chandragiri,चन्द्रागिरी,urban,30610
+335,kathmandu,dakshinkali,दक्षिणकाली,urban,30611
+336,bhaktapur,changunarayan,चाँगुनारायण,urban,30701
+337,bhaktapur,bhaktapur,भक्तपुर,urban,30702
+338,bhaktapur,madhyapur thimi,मध्यपुर थिमी,urban,30703
+339,bhaktapur,suryabinayak,सूर्यविनायक,urban,30704
+340,lalitpur,mahalaxmi,महालक्ष्मी,urban,30801
+341,lalitpur,lalitpur,ललितपुर,metropolitian,30802
+342,lalitpur,godawari,गोदावरी,urban,30803
+343,lalitpur,konjyosom,कोन्ज्योसोम,rural,30804
+344,lalitpur,mahankal,महाङ्काल,rural,30805
+345,lalitpur,bagmati,बाग्मती,rural,30806
+346,kavrepalanchok,chauri deurali,चौरीदेउराली,rural,30901
+347,kavrepalanchok,bhumlu,भुम्लु,rural,30902
+348,kavrepalanchok,mandan deupur,मण्डन देउपुर,urban,30903
+349,kavrepalanchok,banepa,बनेपा,urban,30904
+350,kavrepalanchok,dhulikhel,धुलिखेल,urban,30905
+351,kavrepalanchok,panchkhal,पाँचखाल,urban,30906
+352,kavrepalanchok,temal,तेमाल,rural,30907
+353,kavrepalanchok,namobuddha,नमोबुद्ध,urban,30908
+354,kavrepalanchok,panauti,पनौती,urban,30909
+355,kavrepalanchok,bethanchowk,बेथानचोक,rural,30910
+356,kavrepalanchok,roshi,रोशी,rural,30911
+357,kavrepalanchok,mahabharat,महाभारत,rural,30912
+358,kavrepalanchok,khanikhola,खानीखोला,rural,30913
+359,ramechhap,umakunda,उमाकुण्ड,rural,31001
+360,ramechhap,gokulganga,गोकुलगङ्गा,rural,31002
+361,ramechhap,likhu tamakoshi,लिखु तामाकोशी,rural,31003
+362,ramechhap,ramechhap,रामेछाप,urban,31004
+363,ramechhap,manthali ,मन्थली,urban,31005
+364,ramechhap,khandadevi,खाँडादेवी,rural,31006
+365,ramechhap,doramba,दोरम्बा,rural,31007
+366,ramechhap,sunapati,सुनापती,rural,31008
+367,sindhuli,dudhouli,दुधौली,urban,31101
+368,sindhuli,phikkal,फिक्कल,rural,31102
+369,sindhuli,tinpatan,तीनपाटन,rural,31103
+370,sindhuli,golanjor,गोलन्जोर,rural,31104
+371,sindhuli,kamalamai,कमलामाई,urban,31105
+372,sindhuli,sunkoshi,सुनकोशी,rural,31106
+373,sindhuli,ghyanglekha,ध्याङलेख,rural,31107
+374,sindhuli,marin,मरिण,rural,31108
+375,sindhuli,hariharpurgaghi,हरिहरपुरगढी,rural,31109
+376,makwanpur,indrasarowar,ईन्द्रसरोवर,rural,31201
+377,makwanpur,thaha,थाहा,urban,31202
+378,makwanpur,kailash,कैलाश,rural,31203
+379,makwanpur,raksirang,राक्सिराङ्ग,rural,31204
+380,makwanpur,manahari,मनहरी,rural,31205
+381,makwanpur,hetauda,हेटौडा,sub-metropolitian,31206
+382,makwanpur,bhimphedi,भिमफेदी,rural,31207
+383,makwanpur,makawanpurgadhi,मकवानपुरगढी,rural,31208
+384,makwanpur,bakaiya,बकैया,rural,31209
+385,makwanpur,bagmati,बाग्मती,rural,31210
+386,chitawan,rapti,राप्ती,urban,31301
+387,chitawan,kalika,कालिका,urban,31302
+388,chitawan,ichchha kamana,इच्छाकामना,rural,31303
+389,chitawan,bharatpur,भरतपुर,metropolitian,31304
+390,chitawan,ratnanagar,रत्ननगर,urban,31305
+391,chitawan,khairahani,खैरहनी,urban,31306
+392,chitawan,madi,मादी,urban,31307
+393,gorkha,chumanubri,चुमनुब्री,rural,40101
+394,gorkha,ajirkot,अजिरकोट,rural,40102
+395,gorkha,barpak sulikot,बारपाक सुलिकोट,rural,40103
+396,gorkha,dharche,धार्चे,rural,40104
+397,gorkha,aarughat,आरुघाट,rural,40105
+398,gorkha,bhimsenthapa,भिमसेनथापा,rural,40106
+399,gorkha,siranchowk,सिरानचोक,rural,40107
+400,gorkha,palungtar,पालुङ्गटार,urban,40108
+401,gorkha,gorkha,गोरखा,urban,40109
+402,gorkha,shahid lakhan,शहीद लखन,rural,40110
+403,gorkha,gandaki,गण्डकी,rural,40111
+404,manang,narpa bhumi,नार्पा भूमि,rural,40201
+405,manang,manang ngisyang,मनाङ ङिस्याङ,rural,40202
+406,manang,chame,चामे,rural,40203
+407,manang,nason,नासोँ,rural,40204
+408,mustang,lo ghekar damodarkunda,लो-घेकर दामोदरकुण्ड,rural,40301
+409,mustang,gharpajhong,घरपझोङ,rural,40302
+410,mustang,varagung muktichhetra,वारागुङ मुक्तिक्षेत्र,rural,40303
+411,mustang,lomanthang,लोमन्थाङ,rural,40304
+412,mustang,thasang,थासाङ,rural,40305
+413,myagdi,annapurna,अन्नपूर्ण,rural,40401
+414,myagdi,raghuganga,रघुगंगा,rural,40402
+415,myagdi,dhawalagiri,धवलागिरी,rural,40403
+416,myagdi,malika,मालिका,rural,40404
+417,myagdi,mangala,मंगला,rural,40405
+418,myagdi,beni,बेनी,urban,40406
+419,kaski,madi,मादी,rural,40501
+420,kaski,machhapuchchhre,माछापुच्छ्र्े,rural,40502
+421,kaski,annapurna,अन्नपूर्ण,rural,40503
+422,kaski,pokhara,पोखरा,metropolitian,40504
+423,kaski,rupa,रूपा,rural,40505
+424,lamjung,dordi,दोर्दी,rural,40601
+425,lamjung,marshyangdi,मस्र्याङ्गदी,rural,40602
+426,lamjung,kwhola sothar,क्ब्होलासोथार,rural,40603
+427,lamjung,madhya nepal,मध्यनेपाल,urban,40604
+428,lamjung,bensi shahar,बेंसीशहर,urban,40605
+429,lamjung,sundarbazar,सुन्दरबजार,urban,40606
+430,lamjung,rainas,राईनास,urban,40607
+431,lamjung,dudhapokhari,दुधपोखरी,rural,40608
+432,tanahu,bhanu,भानु,urban,40701
+433,tanahu,byas,ब्यास,urban,40702
+434,tanahu,myagde,म्याग्दे,rural,40703
+435,tanahu,shuklagandaki,शुक्लागण्डकी,urban,40704
+436,tanahu,bhimad,भिमाद,urban,40705
+437,tanahu,ghiring,घिरिङ्ग,rural,40706
+438,tanahu,rhishing,ऋषिङ्ग,rural,40707
+439,tanahu,devghat,देवघाट,rural,40708
+440,tanahu,bandipur,बन्दिपुर,rural,40709
+441,tanahu,aanbu khaireni,आँबुखैरेनी,rural,40710
+442,nawalparasi (east),gaidakot,गैडाकोट,urban,40801
+443,nawalparasi (east),bulingtar,बुलिङ्गटार,rural,40802
+444,nawalparasi (east),baudikali,बौदीकाली,rural,40803
+445,nawalparasi (east),hupsekot,हुप्सेकोट,rural,40804
+446,nawalparasi (east),devchuli,देवचुली,urban,40805
+447,nawalparasi (east),kawasoti,कावासोती,urban,40806
+448,nawalparasi (east),madhya bindu,मध्यबिन्दु,urban,40807
+449,nawalparasi (east),binayi tribeni,बिनयी त्रिवेणी,rural,40808
+450,syangja,putalibazar,पुतलीबजार,urban,40901
+451,syangja,phedikhola,फेदीखोला,rural,40902
+452,syangja,aandhikhola,आँधिखोला,rural,40903
+453,syangja,arjun choupari,अर्जुनचौपारी,rural,40904
+454,syangja,bhirkot,भीरकोट,urban,40905
+455,syangja,biruwa,बिरुवा,rural,40906
+456,syangja,harinas,हरिनास,rural,40907
+457,syangja,chapakot,चापाकोट,urban,40908
+458,syangja,walling,वालिङ्ग,urban,40909
+459,syangja,galyang,गल्याङ,urban,40910
+460,syangja,kaligandaki,कालीगण्डकी,rural,40911
+461,parbat,modi,मोदी,rural,41001
+462,parbat,jaljala,जलजला,rural,41002
+463,parbat,kushma,कुश्मा,urban,41003
+464,parbat,phalebas,फलेबास,urban,41004
+465,parbat,mahashila,महाशिला,rural,41005
+466,parbat,bihadi,बिहादी,rural,41006
+467,parbat,paiyu,पैयुं,rural,41007
+468,baglung,baglung,बाग्लुङ्ग,urban,41101
+469,baglung,kathekhola,काठेखोला,rural,41102
+470,baglung,tarakhola,ताराखोला,rural,41103
+471,baglung,tamankhola,तमानखोला,rural,41104
+472,baglung,dhorpatan,ढोरपाटन,urban,41105
+473,baglung,nisikhola,निसीखोला,rural,41106
+474,baglung,badigad,बडिगाड,rural,41107
+475,baglung,galkot,गल्कोट,urban,41108
+476,baglung,bareng,बरेङ,rural,41109
+477,baglung,jaimuni,जैमुनी,urban,41110
+478,rukum (east),putha uttanganga,पुथा उत्तरगंगा,rural,50101
+479,rukum (east),sisne,सिस्ने,rural,50102
+480,rukum (east),bhoome,भूमे,rural,50103
+481,rolpa,sunchhahari,सुनछहरी,rural,50201
+482,rolpa,thawang,थबाङ्ग,rural,50202
+483,rolpa,pariwartan,परिवर्तन,rural,50203
+484,rolpa,gangadev,गंगादेव,rural,50204
+485,rolpa,madi,मादी,rural,50205
+486,rolpa,tribeni,त्रिवेणी,rural,50206
+487,rolpa,rolpa,रोल्पा,urban,50207
+488,rolpa,runtigadhi,रुन्टीगढी,rural,50208
+489,rolpa,sunil smriti,सुनिल स्मृति,rural,50209
+490,rolpa,lungri,लुङ्ग्री,rural,50210
+491,pyuthan,gaumukhi,गौमुखी,rural,50301
+492,pyuthan,naubahini,नौबहिनी,rural,50302
+493,pyuthan,jhimaruk,झिमरुक,rural,50303
+494,pyuthan,pyuthan,प्यूठान,urban,50304
+495,pyuthan,sworgadwari,स्वर्गद्धारी,urban,50305
+496,pyuthan,mandavi,माण्डवी,rural,50306
+497,pyuthan,mallarani,मल्लरानी,rural,50307
+498,pyuthan,aairawati,ऐरावती,rural,50308
+499,pyuthan,sarumarani,सरुमारानी,rural,50309
+500,gulmi,kali gandaki,कालिगण्डकी,rural,50401
+501,gulmi,satyawoti,सत्यवती,rural,50402
+502,gulmi,chandrakot,चन्द्रकोट,rural,50403
+503,gulmi,musikot,मुसिकोट,urban,50404
+504,gulmi,isma,ईस्मा,rural,50405
+505,gulmi,malika,मालिका,rural,50406
+506,gulmi,madane,मदाने,rural,50407
+507,gulmi,dhurkot,धुर्कोट,rural,50408
+508,gulmi,resunga,रेसुङ्गा,urban,50409
+509,gulmi,gulmi durbar,गुल्मी दरबार,rural,50410
+510,gulmi,chhatrakot,छत्रकोट,rural,50411
+511,gulmi,ruruchhetra,रुरुक्षेत्र,rural,50412
+512,arghakhanchi,chhatradev,छत्रदेव,rural,50501
+513,arghakhanchi,malarani,मालारानी,rural,50502
+514,arghakhanchi,bhumikasthan,भुमिकास्थान,urban,50503
+515,arghakhanchi,sandhikharka,सन्धिखर्क,urban,50504
+516,arghakhanchi,panini,पाणिनी,rural,50505
+517,arghakhanchi,shitaganga,शितगंगा,urban,50506
+518,palpa,rampur,रामपुर,urban,50601
+519,palpa,purbakhola,पुर्वखोला,rural,50602
+520,palpa,rambha,रम्भा,rural,50603
+521,palpa,baganaskali,बगनासकाली,rural,50604
+522,palpa,tansen,तानसेन,urban,50605
+523,palpa,ribdikot,रिब्दीकोट,rural,50606
+524,palpa,rainadevi chhahara,रैनादेवी छहरा,rural,50607
+525,palpa,tinau,तिनाउ,rural,50608
+526,palpa,mathagadhi,माथागढी,rural,50609
+527,palpa,nisdi,निस्दी,rural,50610
+528,nawalparasi (west),bardaghat,बर्दघाट,urban,50701
+529,nawalparasi (west),sunawal,सुनवल,urban,50702
+530,nawalparasi (west),ramgram,रामग्राम,urban,50703
+531,nawalparasi (west),palhinandan,पाल्हीनन्दन,rural,50704
+532,nawalparasi (west),sarawal,सरावल,rural,50705
+533,nawalparasi (west),pratapapur,प्रतापपुर,rural,50706
+534,nawalparasi (west),susta,सुस्ता,rural,50707
+535,rupandehi,devdaha,देबदह,urban,50801
+536,rupandehi,butwal,बुटवल,sub-metropolitian,50802
+537,rupandehi,sainamaina,सैनामैना,urban,50803
+538,rupandehi,kanchan,कञ्चन,rural,50804
+539,rupandehi,gaidahawa,गैडहवा,rural,50805
+540,rupandehi,suddhodhan,सुद्धोधन,rural,50806
+541,rupandehi,siyari,सियारी,rural,50807
+542,rupandehi,tilottama,तिलोत्तमा,urban,50808
+543,rupandehi,om satiya,ओमसतिया,rural,50809
+544,rupandehi,rohini,रोहिणी,rural,50810
+545,rupandehi,siddharthanagar,सिद्धार्थनगर,urban,50811
+546,rupandehi,mayadevi,मायादेवी,rural,50812
+547,rupandehi,lumbini sanskritik,लुम्बिनी साँस्कृतिक,urban,50813
+548,rupandehi,kotahimai,कोटहीमाई,rural,50814
+549,rupandehi,sammarimai,सम्मरीमाई,rural,50815
+550,rupandehi,marchawari,मर्चवारी,rural,50816
+551,kapilbastu,banganga,बाणगंगा,urban,50901
+552,kapilbastu,buddhabhumi,बुद्धभूमी,urban,50902
+553,kapilbastu,shivaraj,शिवराज,urban,50903
+554,kapilbastu,bijayanagar,बिजयनगर,rural,50904
+555,kapilbastu,krishnanagar,कृष्णनगर,urban,50905
+556,kapilbastu,maharajganj,महाराजगन्ज,urban,50906
+557,kapilbastu,kapilbastu,कपिलबस्तु,urban,50907
+558,kapilbastu,yasodhara,यसोधरा,rural,50908
+559,kapilbastu,mayadevi,मायादेवी,rural,50909
+560,kapilbastu,shuddhodhan,शुद्धोधन,rural,50910
+561,dang,bangalachuli,बंगलाचुली,rural,51001
+562,dang,ghorahi,घोराही,sub-metropolitian,51002
+563,dang,tulsipur,तुल्सीपुर,sub-metropolitian,51003
+564,dang,shantinagar,शान्तिनगर,rural,51004
+565,dang,babai,बबई,rural,51005
+566,dang,dangisharan,दंगीशरण,rural,51006
+567,dang,lamahi,लमही,urban,51007
+568,dang,rapti,राप्ती,rural,51008
+569,dang,gadhawa,गढवा,rural,51009
+570,dang,rajpur,राजपुर,rural,51010
+571,banke,rapti sonari,राप्ती सोनारी,rural,51101
+572,banke,kohalpur,कोहलपुर,urban,51102
+573,banke,baijanath,बैजनाथ,rural,51103
+574,banke,khajura,खजुरा,rural,51104
+575,banke,janaki,जानकी,rural,51105
+576,banke,nepalganj,नेपालगञ्ज,sub-metropolitian,51106
+577,banke,duduwa,डुडुवा,rural,51107
+578,banke,narainapur,नरैनापुर,rural,51108
+579,bardiya,bansgadhi,बाँसगढी,urban,51201
+580,bardiya,barbardiya,बारबर्दिया,urban,51202
+581,bardiya,thakurbaba,ठाकुरबाबा,urban,51203
+582,bardiya,geruwa,गेरुवा,rural,51204
+583,bardiya,rajapur,राजापुर,urban,51205
+584,bardiya,madhuwan,मधुवन,urban,51206
+585,bardiya,gulariya,गुलरीया,urban,51207
+586,bardiya,badhaiyatal,बढैयाताल,rural,51208
+587,dolpa,dolpo buddha,डोल्पो बुद्ध,rural,60101
+588,dolpa,shey phoksundo,शे फोक्सुण्डो,rural,60102
+589,dolpa,jagadulla,जगदुल्ला,rural,60103
+590,dolpa,mudkechula,मुड्केचुला,rural,60104
+591,dolpa,tripurasundari,त्रिपुरासुन्दरी,urban,60105
+592,dolpa,thulibheri,ठुलीभेरी,urban,60106
+593,dolpa,kaike,काइके,rural,60107
+594,dolpa,chharka tangsong,छार्का ताङसोङ,rural,60108
+595,mugu,mugumakarmarog,मुगुमकार्मारोग,rural,60201
+596,mugu,chhayanath rara,छायाँनाथ रारा,urban,60202
+597,mugu,soru,सोरु,rural,60203
+598,mugu,khatyad,खत्याड,rural,60204
+599,humla,chankheli,चंखेली,rural,60301
+600,humla,kharpunath,खार्पुनाथ,rural,60302
+601,humla,simkot,सिमकोट,rural,60303
+602,humla,namkha,नाम्खा,rural,60304
+603,humla,sarkegad,सर्केगाड,rural,60305
+604,humla,adanchuli,अदानचुली,rural,60306
+605,humla,tanjakot,ताँजाकोट,rural,60307
+606,jumla,patarasi,पातारासी,rural,60401
+607,jumla,kanaka sundari,कनका सुन्दरी,rural,60402
+608,jumla,sinja,सिंजा,rural,60403
+609,jumla,chandannath,चन्दननाथ,urban,60404
+610,jumla,guthichaur,गुठिचौर,rural,60405
+611,jumla,tatopani,तातोपानी,rural,60406
+612,jumla,tila,तिला,rural,60407
+613,jumla,hima,हिमा,rural,60408
+614,kalikot,palata,पलाता,rural,60501
+615,kalikot,pachal jharana,पचाल झरना,rural,60502
+616,kalikot,raskot,रास्कोट,urban,60503
+617,kalikot,sanni tribeni,सान्नी त्रिवेणी,rural,60504
+618,kalikot,naraharinath,नरहरिनाथ,rural,60505
+619,kalikot,khandachakra,खाँडाचक्र,urban,60506
+620,kalikot,tilagupha,तिलागुफा,urban,60507
+621,kalikot,mahawai,महावै,rural,60508
+622,kalikot,shuva kalika,शुभ कालीका,rural,60509
+623,dailekh,naumule,नौमुले,rural,60601
+624,dailekh,mahabu,महाबु,rural,60602
+625,dailekh,bhairabi,भैरवी,rural,60603
+626,dailekh,thantikandh,ठाँटीकाँध,rural,60604
+627,dailekh,aathbis,आठबीस,urban,60605
+628,dailekh,chamunda bindrasaini,चामुण्डा बिन्द्रासैनी,urban,60606
+629,dailekh,dullu,दुल्लु,urban,60607
+630,dailekh,narayan,नारायण,urban,60608
+631,dailekh,bhagawatimai,भगवतीमाई,rural,60609
+632,dailekh,dungeshwor,डुङ्गेश्वर,rural,60610
+633,dailekh,gurans,गुराँस,rural,60611
+634,jajarkot,barekot,बारेकोट,rural,60701
+635,jajarkot,kushe,कुशे,rural,60702
+636,jajarkot,junichande,जुनीचाँदे,rural,60703
+637,jajarkot,chhedagad,छेडागाड,urban,60704
+638,jajarkot,shivalaya,शिवालय,rural,60705
+639,jajarkot,bheri malika,भेरीमालिका,urban,60706
+640,jajarkot,nalgad,नलगाड,urban,60707
+641,rukum (west),aathabisakot,आठबिसकोट,urban,60801
+642,rukum (west),sanibheri,सानीभेरी,rural,60802
+643,rukum (west),banphikot,बाँफिकोट,rural,60803
+644,rukum (west),musikot,मुसिकोट,urban,60804
+645,rukum (west),tribeni,त्रिवेणी,rural,60805
+646,rukum (west),chaurjahari,चौरजहारी,urban,60806
+647,salyan,darma,दार्मा,rural,60901
+648,salyan,kumakh,कुमाख,rural,60902
+649,salyan,banagad kupinde,बनगाड कुपिण्डे,urban,60903
+650,salyan,siddha kumakh,सिद्ध कुमाख,rural,60904
+651,salyan,bagachour,बागचौर,urban,60905
+652,salyan,chhatreshwori,छत्रेश्वरी,rural,60906
+653,salyan,sharada,शारदा,urban,60907
+654,salyan,kalimati,कालिमाटी,rural,60908
+655,salyan,tribeni,त्रिवेणी,rural,60909
+656,salyan,kapurkot,कपुरकोट,rural,60910
+657,surkhet,simta,सिम्ता,rural,61001
+658,surkhet,chingad,चिङ्गगाड,rural,61002
+659,surkhet,lekabeshi,लेकबेशी,urban,61003
+660,surkhet,gurbhakot,गुर्भाकोट,urban,61004
+661,surkhet,bheriganga,भेरीगंगा,urban,61005
+662,surkhet,birendranagar,बीरेन्द्रनगर,urban,61006
+663,surkhet,barahatal,बराहताल,rural,61007
+664,surkhet,panchapuri,पञ्चपुरी,urban,61008
+665,surkhet,chaukune,चौकुने,rural,61009
+666,bajura,himali,हिमाली,rural,70101
+667,bajura,gaumul,गौमुल,rural,70102
+668,bajura,budhinanda,बुढीनन्दा,urban,70103
+669,bajura,swamikartik khapar,स्वामीकार्तिक खापर,rural,70104
+670,bajura,jagannath,जगन्‍नाथ,rural,70105
+671,bajura,badimalika,बडिमालिका,urban,70106
+672,bajura,khaptad chhededaha,खप्तड छेडेदह,rural,70107
+673,bajura,budhiganga,बुढीगंगा,urban,70108
+674,bajura,tribeni,त्रिवेणी,urban,70109
+675,bajhang,saipal,साइपाल,rural,70201
+676,bajhang,bungal,बुंगल,urban,70202
+677,bajhang,surma,सूर्मा,rural,70203
+678,bajhang,talkot,तालकोट,rural,70204
+679,bajhang,masta,मष्टा,rural,70205
+680,bajhang,jayaprithbi,जयपृथ्वी,urban,70206
+681,bajhang,chhabis pathibhara,छबिस पाथिभरा,rural,70207
+682,bajhang,durgathali,दुर्गाथली,rural,70208
+683,bajhang,kedarsyun,केदारस्युँ,rural,70209
+684,bajhang,bitthadchir,बित्थडचिर,rural,70210
+685,bajhang,thalara,थलारा,rural,70211
+686,bajhang,khaptad chhanna,खप्तडछान्ना,rural,70212
+687,darchula,byas,ब्याँस,rural,70301
+688,darchula,duhun,दुहुँ,rural,70302
+689,darchula,mahakali,महाकाली,urban,70303
+690,darchula,naugad ,नौगाड,rural,70304
+691,darchula,apihimal,अपिहिमाल,rural,70305
+692,darchula,marma,मार्मा,rural,70306
+693,darchula,shailyashikhar,शैल्यशिखर,urban,70307
+694,darchula,malikarjun,मालिकार्जुन,rural,70308
+695,darchula,lekam,लेकम,rural,70309
+696,baitadi,dilasaini,डीलासैनी,rural,70401
+697,baitadi,dogada kedar,दोगडाकेदार,rural,70402
+698,baitadi,puchaundi,पुचौंडी,urban,70403
+699,baitadi,surnaya,सुर्नया,rural,70404
+700,baitadi,dasharathchand,दशरथचन्द,urban,70405
+701,baitadi,pancheshwor,पन्चेश्वर,rural,70406
+702,baitadi,shivanath,शिवनाथ,rural,70407
+703,baitadi,melauli,मेलौली,urban,70408
+704,baitadi,patan,पाटन,urban,70409
+705,baitadi,sigas,सिगास,rural,70410
+706,dadeldhura,nawadurga,नवदुर्गा,rural,70501
+707,dadeldhura,amargadhi,अमरगढी,urban,70502
+708,dadeldhura,ajayameru,अजयमेरु,rural,70503
+709,dadeldhura,bhageshwor,भागेश्वर,rural,70504
+710,dadeldhura,parashuram,परशुराम,urban,70505
+711,dadeldhura,aalital,आलिताल,rural,70506
+712,dadeldhura,ganyapdhura,गन्यापधुरा,rural,70507
+713,doti,purbichouki,पुर्विचौकी,rural,70601
+714,doti,sayal,सायल,rural,70602
+715,doti,aadarsha,आदर्श,rural,70603
+716,doti,shikhar,शिखर,urban,70604
+717,doti,dipayal silgadhi,दिपायल सिलगढी,urban,70605
+718,doti,k.i. singh,के.आई.सिं.,rural,70606
+719,doti,bogatan phudsil,बोगटान फुड्सिल,rural,70607
+720,doti,badi kedar,बडीकेदार,rural,70608
+721,doti,jorayal,जोरायल,rural,70609
+722,achham,panchdebal binayak,पंचदेवल बिनायक,urban,70701
+723,achham,ramaroshan,रामारोशन,rural,70702
+724,achham,mellekh,मेल्लेख,rural,70703
+725,achham,sanphebagar,साँफेबगर,urban,70704
+726,achham,chaurpati,चौरपाटी,rural,70705
+727,achham,mangalsen,मंगलसेन,urban,70706
+728,achham,bannigadhi jayagadh,बान्नीगढी जयगढ,rural,70707
+729,achham,kamal bazar,कमलबजार,urban,70708
+730,achham,dhakari,ढकारी,rural,70709
+731,achham,turmakhand,तुर्माखाँद,rural,70710
+732,kailali,mohanyal,मोहन्याल,rural,70801
+733,kailali,chure,चुरे,rural,70802
+734,kailali,godawari,गोदावरी,urban,70803
+735,kailali,gauriganga,गौरीगंगा,urban,70804
+736,kailali,ghodaghodi,घोडाघोडी,urban,70805
+737,kailali,bardagoriya,बर्दगोरिया,rural,70806
+738,kailali,lamki chuha,लम्कि चुहा,urban,70807
+739,kailali,janaki,जानकी,rural,70808
+740,kailali,joshipur,जोशीपुर,rural,70809
+741,kailali,tikapur,टिकापुर,urban,70810
+742,kailali,bhajani,भजनी,urban,70811
+743,kailali,kailari,कैलारी,rural,70812
+744,kailali,dhangadhi,धनगढी,sub-metropolitian,70813
+745,kanchanpur,krishnapur,कृष्णपुर,urban,70901
+746,kanchanpur,shuklaphanta,शुक्लाफाँटा,urban,70902
+747,kanchanpur,bedkot,बेदकोट,urban,70903
+748,kanchanpur,bhimdatta,भिमदत्त,urban,70904
+749,kanchanpur,mahakali,महाकाली,urban,70905
+750,kanchanpur,laljhadi,लालझाडी,rural,70906
+751,kanchanpur,punarbas,पुनर्वास,urban,70907
+752,kanchanpur,belouri,बेलौरी,urban,70908
+753,kanchanpur,beldandi,बेलडाँडी,rural,70909

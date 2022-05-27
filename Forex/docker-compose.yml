@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  forex_loader:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - $PWD:/code 
+  redis_alp:
+    image: "redis:alpine"

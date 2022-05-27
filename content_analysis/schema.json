@@ -1,0 +1,97 @@
+{
+	"locale": null,
+	"name": null,
+	"title": null,
+	"description": null,
+	"url": null,
+	"keyword": null,
+	"schema": null,
+	"page": null,
+	"ids": null,
+	"dns": {
+		"A": null,
+		"MX": null
+	},
+	"platform": {
+		"name": null,
+		"version": null,
+		"app": null,
+		"theme": null,
+		"generator": null,
+		"dir": null,
+		"full": {
+			"app": null,
+			"theme": null
+		}
+	},
+	"ecommerce": {
+		"topic": null,
+		"vendor": null,
+		"price": {
+			"high": null,
+			"upper_average": null,
+			"average": null,
+			"lower_average": null,
+			"low": null
+		},
+		"frequency": {
+			"week": null,
+			"month": null
+		},
+		"count": {
+			"category": null,
+			"product": null
+		}
+	},
+	"cms": {
+		"topic": null,
+		"frequency": {
+			"week": null,
+			"month": null
+		},
+		"count": {
+			"category": null,
+			"post": null,
+			"author": null
+		}
+	},
+	"activity": {
+		"min": null,
+		"max": null
+	},
+	"country": {
+		"primary": null,
+		"secondary": null,
+		"alternate": null
+	},
+	"payment": {
+		"currency": null,
+		"processor": null
+	},
+	"email": {
+		"primary": null,
+		"secondary": null
+	},
+	"phone": {
+		"primary": null,
+		"secondary": null
+	},
+	"host": {
+		"self": null,
+		"primary": null,
+		"secondary": null
+	},
+	"profile": {
+		"primary": null,
+		"secondary": null
+	},
+	"app": {
+		"primary": null,
+		"secondary": null
+	},
+	"full": {
+		"phone": null,
+		"profile": null,
+		"app": null
+	}
+}
