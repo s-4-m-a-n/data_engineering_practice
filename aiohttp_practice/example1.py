@@ -32,7 +32,7 @@ start = time.time()
 
 # loop  = asyncio.get_event_loop()
 # loop.run_until_complete(main(1))  # does routing check
-# or we can simple use asyncio.run()
+# or we can simply use asyncio.run()
 params = {
     'page': 1,
     'q': 'nuts'
